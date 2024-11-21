@@ -57,8 +57,8 @@ The raw dataset was preprocessed using the following steps:
    - Achieved **F1-score of 88%** for custom NER tasks after fine-tuning.
 
 3. **Classification**:
-   - Trained a Logistic Regression model to classify extracted sentences into predefined categories (skills, education, work experience).
-   - Achieved an **accuracy of 92%** on test data.
+   - Trained a Logistic Regression model, random forest and XGbOOST model to classify extracted sentences into predefined categories (skills, education, work experience).
+   - Achieved an **accuracy of 70%** on test data.
 
 ---
 
