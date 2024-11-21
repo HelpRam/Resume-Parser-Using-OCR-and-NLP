@@ -1,0 +1,107 @@
+
+
+Page 1:
+RAMDULAR YADAV
+
+Data Science J +977 9819936338
+@ rammey115@gmail.com
+Computer Engineering © in
+
+IOE Purwanchal Campus, Dharan, Nepal
+
+Passionate Data Science and AI/ML Engineer with expertise in Machine Learning, Deep learning, and Data-
+Driven solutions. Skilled in Python, mathematics, and problem-solving, with a strong foundation in Proba-
+bility and Statistics. As a dedicated Data Analyst, I thrive on transforming data into actionable insights and
+contifuously learning new technologies to drive innovation.
+
+TECHNICAL SKILLS
+
+Expertise: Machine & Deep Learning, Computer Vision, Image Processing, Generative AI (GANs), LLMs, Retrieval-
+Augmented Generation (RAG), Fine-Tuning, Prompt Engineering, SQL, Databases.
+
+Languages: Python, C++, SQL, HTML/CSS, Shell, Bash.
+Developer Tools: VS Code, Colab, Jupyter Notebook, Anaconda, GPT/LLM API integrations, Hugging Face.
+Technologies: GitHub, Excel, LaTeX, Database Management (MySQL).
+
+Libraries: Matplotlib, Seaborn, Pandas, Numpy, Scikit-learn, Tensorflow, Pytorch, OpenCV-python, Flask.
+Frameworks: Tensorflow, Pytorch, OpenCV-python, Hugging Face.
+
+Softskills: Leadership, Management, Teamwork, Communication, Creative thinking, Analytical & Problem-solving
+
+PROJECTS
+
+LangChain QA Chatbot: Developed a Question-Answering chatbot using LangChain and the LLaMA model. Imple-
+mented the chatbot to efficiently handle a wide range of queries by leveraging the LLaMA model’s natural language
+processing capabilities. The project involved fine-tuning the model, integrating it with LangChain, and optimizing
+the response accuracy, providing an interactive and user-friendly experience.
+
+Image Caption Generator: Implemented an Image Caption Generator using a combination of the Flick8k dataset
+and a personally curated collection of 150 real-world photos, each with corresponding captions. Leveraged the
+VGG16 model for image feature extraction and LSTM (Long Short-Term Memory) networks for generating descriptive
+captions. Achieved compelling results in automatically generating accurate and contextually relevant captions for
+diverse images.
+
+Student Performance Indicator: Conducted thorough exploratory data analysis (EDA), comparing the performance
+of algorithms including KNeighborsRegressor, DecisionTreeRegressor, RandomForestRegressor, and AdaBoostRe-
+gressor, with Linear Regression emerging as the optimal choice. Trained and evaluated the model, achieving high
+accuracy on test data.
+
+Sign Language Detection: Developed a sign language detection system using the YOLOv8 model. Fine-tuned the
+model with custom-created data to accurately identify and interpret sign language gestures. Utilized Roboflow
+tools for efficient data annotation, ensuring high-quality training data. This project demonstrates the integration of
+advanced computer vision techniques with custom model training for real-world applications.
+
+Face Recognition Attendance System: An end-to-end face recognition attendance system, deployed with a user-
+friendly interface using Tkinter, harnessing deep learning techniques to accurately identify and record individuals,
+thereby streamlining attendance management workflows.
+
+Handwritten Digit Classification: Handwritten Digit Classification is a deep learning project aimed at recognizing and
+categorizing handwritten numerical digits. Utilizing advanced neural network architectures, the system analyzes input
+images of handwritten digits, learning patterns and features to accurately classify them into predefined categories.
+This project showcases the capability of deep learning algorithms to understand and interpret handwritten characters,
+with applications in fields such as optical character recognition (OCR), digitized document processing, and automation
+of data entry tasks.
+
+Car Price Prediction: Created a project to estimate car prices by gathering data, training the system to learn from
+it, and deploying it with Flask. The system provides an estimate of car prices, acting as a personal assistant for car
+buying or selling.
+
+
+Page 2:
+EDUCATION
+
+¢ Himalayan White House International College 2019-2021
++2 Science CGPA: 3.35
+¢ IOE Purwanchal Campus, Dharan 2021-2025
+
+Bachelor of Computer Engineering
+
+WoRK EXPERIENCE / EXTRACURRICULAR
+
+¢ Fusemachine
+Al Fellowship April 2024 - Present
+— Participating in an intensive AI Fellowship covering topics such as AI/ML, data science, regression and classifi-
+cation, clustering, neural networks, image processing, NLP, and reinforcement learning.
+— Gaining hands-on experience through projects involving predictive modeling, web scraping, model deployment,
+and reinforcement learning.
+
+« CodeforNepal
+Data Fellow 2021-2022
+
+— Completed Data Camp as part of the Fellowship, honing skills in Python, machine learning algorithms, and data
+analysis and manipulation.
+« Karma Technology
+Data Analyst November 2023 - May 2024
+
+— Responsible for creating datasets crucial to the success of the team’s data-driven projects. Played a pivotal
+role in ensuring the availability of high-quality information, contributing significantly to the company’s effective
+decision-making processes.
+
+CERTIFICATIONS
+
+« Python
+
+¢ Data Science Course - Mastering the Fundamentals
+¢ Introduction to Machine Learning
+
+¢ Intro to ChatGPT and Generative AI
